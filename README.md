@@ -6,3 +6,5 @@ You must download a language model from here and plug it into my python script t
 To build: 
   update 'model_path' to path of your downloaded language model.
   update 'IP_ADDRESS_OF_TV' to your Roku TV's IP address. This can be found on the TV in Settings => Network => About. 
+
+More commands can be found at https://developer.roku.com/docs/developer-program/dev-tools/external-control-api.md . 
